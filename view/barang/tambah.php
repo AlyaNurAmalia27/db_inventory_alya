@@ -46,7 +46,7 @@
         </div>
         <div class="mb-3">
             <label for="exampleInputEmail1" class="form-label">Stok</label>
-            <input type="number" class="form-control" name="stok" id="exampleInputEmail1" aria-describedby="emailHelp">
+            <input type="" class="form-control" name="stok" id="exampleInputEmail1" aria-describedby="emailHelp">
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>
     </form>
