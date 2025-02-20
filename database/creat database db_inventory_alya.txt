@@ -1,0 +1,22 @@
+creat database db_inventory_alya
+
+1. CREATE TABLE barang
+(id_barang varchar(20) PRIMARY KEY,
+ nama_barang varchar(50),
+ id_jenis varchar(20),
+ harga int,
+ stok int 
+ )
+
+2. CREATE TABLE jenis 
+(id_jenis varchar(20) PRIMARY KEY,
+ nama_jenis varchar(50)
+ )
+
+3. INSERT INTO barang VALUES
+("B32","laptop","D34",8000000,8),
+("B33","handphone","D35",24000000,2)
+
+4.  INSERT INTO jenis VALUES
+("D34","electronic"),
+("D35","electronic")
